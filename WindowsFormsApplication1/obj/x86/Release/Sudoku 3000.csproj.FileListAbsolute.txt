@@ -1,0 +1,28 @@
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\bin\Release\Sudoku 3000.exe
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\bin\Release\Sudoku 3000.pdb
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.MainForm.resources
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.Properties.Resources.resources
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.SettingsForm.resources
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.exe
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.pdb
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.exe
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.pdb
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\bin\Release\Sudoku 3000.exe
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\bin\Release\Sudoku 3000.pdb
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.csprojResolveAssemblyReference.cache
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.MainForm.resources
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.Properties.Resources.resources
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.SettingsForm.resources
+d:\[WORK]\Önéletrajzok\Programozós\Referenciák\Sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.csproj.GenerateResource.Cache
+d:\GitHub\sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.exe
+d:\GitHub\sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.pdb
+d:\GitHub\sudoku\WindowsFormsApplication1\bin\Release\Sudoku 3000.exe
+d:\GitHub\sudoku\WindowsFormsApplication1\bin\Release\Sudoku 3000.pdb
+d:\GitHub\sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.csprojResolveAssemblyReference.cache
+d:\GitHub\sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.MainForm.resources
+d:\GitHub\sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.Properties.Resources.resources
+d:\GitHub\sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku3000.SettingsForm.resources
+d:\GitHub\sudoku\WindowsFormsApplication1\obj\x86\Release\Sudoku 3000.csproj.GenerateResource.Cache

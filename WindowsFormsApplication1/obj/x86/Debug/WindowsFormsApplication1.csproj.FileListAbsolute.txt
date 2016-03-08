@@ -1,0 +1,9 @@
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\bin\Debug\Sudoku 3000.exe
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\bin\Debug\Sudoku 3000.pdb
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Debug\Sudoku3000.Properties.Resources.resources
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Debug\Sudoku 3000.exe
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Sudoku\WindowsFormsApplication1\obj\x86\Debug\Sudoku 3000.pdb
